@@ -73,7 +73,7 @@ Through this project I learned:
 - 
 ## Author
 Rachna Kallimani
-Engineering Student | Learning Web Development
+Engineering Student ECE
 
 ## Repository Link
 
