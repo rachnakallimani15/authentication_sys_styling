@@ -59,6 +59,9 @@ Displays a simple dashboard layout after login.
 ### Register Page
 ![Register](register.png.png)
 
+### Reset Password Page
+![Reset](reset.png.png)
+
 ### Dashboard
 ![Dashboard](dashboard.png.png)
 
